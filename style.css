@@ -1,0 +1,26 @@
+#side{
+    width: 29%;
+    background-color: blue;
+    float: left;
+}
+#main{
+    width: 70%;
+    background-color: green;
+    float: right;
+
+}
+nav u1{
+    list-style: none;   
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: lightgray;
+    height: 50px;
+
+}
+
+nav li{
+    display: inline-block;
+    width: 20%;
+    margin-right: -4px;
+}
